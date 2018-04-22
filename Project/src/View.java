@@ -28,7 +28,7 @@ import java.util.concurrent.Semaphore;
 
 public class View implements Observer {
 
-    TelegramBot bot = TelegramBotAdapter.build("474203343:AAG6ZAADnP_RUdSy9DL6bpb2QOglrhLnRjs");
+    TelegramBot bot = TelegramBotAdapter.build("YOUR_TOKEN");
 
     //Object that receives messages
     GetUpdatesResponse updatesResponse;
