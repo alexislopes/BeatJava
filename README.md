@@ -6,4 +6,7 @@ Beat é um chatbot para dinamizar a interação em grupos do Telegram, adicionan
 
 Ao contata-lo no chat privado ele ira pedir a você que adicione-o a um grupo, afinal ele funciona melhor assim.
 
+![Imagem 1 - Contato Privado](https://github.com/alexislopes/BeatJava/blob/master/Project/imgs/%C3%ADndice.jpg)
+
+
 
