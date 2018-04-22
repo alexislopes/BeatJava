@@ -4,14 +4,15 @@ Beat é um chatbot para dinamizar a interação em grupos do Telegram, adicionan
 
 # Contato Privado
 
-Ao contata-lo no chat privado ele ira pedir a você que adicione-o a um grupo, afinal ele funciona melhor assim.
+Ao contata-lo no chat privado ele irá pedir a você que adicione-o a um grupo, afinal ele funciona melhor assim.
 
 ![Imagem 1 - Contato Privado](https://github.com/alexislopes/BeatJava/blob/master/Project/imgs/%C3%ADndice.jpg)
 
 # Debloqueando Cartas
 
-Conforme você e seus amigos interagem, o chat decide a melhor hora que o debloqueio irá acontecer.
-OBS: O desbloquio é individual, ou seja, caso você desbloquie uma carta e seu amigo não tenha, ele não terá posse da mesma.
+Conforme você e seus amigos interagem, o chatbot decide a melhor hora que o debloqueio irá acontecer.
+OBS: O desbloquio é individual, ou seja, caso você desbloquie uma carta e seu amigo a não tenha, ele não terá posse da mesma.
+
 ![Imagem 1 - Contato Privado](https://github.com/alexislopes/BeatJava/blob/master/Project/imgs/%C3%ADndice2.jpg)
 
 # Verificando suas cartas
