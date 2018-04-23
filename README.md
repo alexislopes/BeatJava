@@ -8,7 +8,7 @@ Ao contata-lo no chat privado ele irá pedir a você que adicione-o a um grupo, 
 
 ![Imagem 1 - Contato Privado](https://github.com/alexislopes/BeatJava/blob/master/Project/imgs/%C3%ADndice.jpg)
 
-# Debloqueando Cartas
+# Desbloqueando Cartas
 
 Conforme você e seus amigos interagem, o chatbot decide a melhor hora que o debloqueio irá acontecer.
 OBS: O desbloquio é individual, ou seja, caso você desbloquie uma carta e seu amigo a não tenha, ele não terá posse da mesma.
