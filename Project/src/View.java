@@ -42,7 +42,7 @@ public class View implements Observer {
     private String message;
     private String userName;
 
-    private String path = "F:\\Fatec\\Engenharia de Software III\\Project\\cards\\";
+    private String path = "C:\\card_path";
 
     private boolean start = false;
 
