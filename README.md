@@ -25,7 +25,7 @@ o comando "/mydeck" é usado para verificar as cartas que foram desbloqueadas po
 
 O projeto aqui disponível foi desenvolvido com base no diagrama abaixo:
 
-![Imagem 1 - Contato Privado](https://github.com/alexislopes/BeatJava/blob/master/Project/imgs/Main.jpg)
+![Imagem 1 - Contato Privado](https://github.com/alexislopes/BeatJava/blob/master/Project/imgs/diagrama de classes.jpg)
 
 
 
