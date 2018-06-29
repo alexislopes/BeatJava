@@ -1,0 +1,8 @@
+Card{cardID=1, cardName='Arqueiras', keyword='arco'}
+Card{cardID=2, cardName='Bola de Fogo', keyword='fogo'}
+Card{cardID=3, cardName='Golem de Gelo', keyword='gelo'}
+Card{cardID=4, cardName='Mago de Gelo', keyword='gelido'}
+Card{cardID=5, cardName='Dragão Inferno', keyword='voa'}
+Card{cardID=6, cardName='Príncipe', keyword='ponei'}
+Card{cardID=7, cardName='Tronco', keyword='madeira'}
+Card{cardID=8, cardName='Zap', keyword='raio'}
